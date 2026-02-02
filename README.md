@@ -57,6 +57,6 @@ If you are satisfied, you can now commit & push to GitHub:
 
 ```bash
 git add today.py
-git commit -m "Implement my_buddy_is function"
+git commit -m "Implement function"
 git push origin master
 ```
